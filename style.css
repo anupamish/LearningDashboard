@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    font-family:Arial, Helvetica, sans-serif
+}
+body{
+  font-size: 20px;
+  color: #333;
+  font-weight: 300;
+  text-align: center;
+  background-color: white;
+}
+div.header{
+    background-color: black;
+    height: 60px;
+}
+img{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 10%
+}
+h1{
+  font-weight: 500;
+  margin: 0px;
+  padding-top: 2%;
+  font-size: 20px;
+  color: #fff;
+  text-align: center
+}
+.question{
+  font-size: 15px;
+  margin-bottom: 10px;
+  word-break: keep-all;
+  font-weight: bold;
+}
+.answers {
+  font-size: 15px;
+  margin-bottom: 10px;
+  text-align: left;
+  display: inline-block;
+  word-break: keep-all;
+}
+.answers label{
+  display: block;
+  margin-bottom: 10px;
+}
+button{
+  font-size: 22px;
+	background-color: #5388C0;
+	color: #fff;
+	padding: 10px;
+	cursor: pointer;
+}
+button:hover{
+	background-color: black;
+}
+
+.slide{
+  width: inherit;
+  height: inherit;
+  position: absolute;
+  margin-right: 2%;
+  margin-left:2%;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 0.5s;
+  text-align: left;
+}
+.active-slide{
+  opacity: 1;
+  z-index: 2;
+}
+.quiz-container{
+  position: relative;
+  align-self: center;
+  height: 330px;
+  width:auto;
+  margin: auto;
+  margin-top:3%;
+}
+#results{
+  width:1500px;
+  height:100px;
+  margin:auto;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  float: center;
+  
+}
+table{
+  width:60%
+}
+td,tr{
+  height: 50px;
+  vertical-align: bottom;
+  padding: 15px;
+  
+}
+h1.section-heading{
+  color:black; 
+  text-align:left; 
+  margin-left:10%;
+  font-size: 20px;
+
+}
+hr{
+  width: 80%;
+  margin:auto;
+}
+div.section-data{
+  margin-left: 10%;
+}
+div.welcome-container{
+  margin-bottom: 5%;
+}
+.styled-select select {
+  margin-left: 10%;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  height: 29px;
+  padding: 5px; /* If you add too much padding here, the options won't show in IE */
+  width: 268px;
+}
+
+
+
+.styled-select.slate select {
+  margin-left: 10%;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  height: 34px;
+  width: 268px;
+}

@@ -1,0 +1,621 @@
+{
+    "questions": {
+        "Argument Structure Questions": [
+            {
+                "id": 953,
+                "question":"Can any research be found to validate the contention that those who spend time plucking out their gray hairs have more negative attitudes toward the elderly than those who shrug their shoulders about their gray hairs? Unless a person's psychopathology leads him or her to overgeneralize, there is no necessary connection. Certainly it is reasonable to like the elderly yet dislike the idea of impaired eyesight and hearing. Furthermore, holding negative attitudes toward older people merely because they are old is immoral, according to nearly universally accepted ethical standards. But there is nothing immoral about disliking some concomitants of the aging process.<br /><br />Which one of the following best expresses the main point of the passage?<br /><br /><br />",
+                "choices":[
+                    "It cannot be assumed that people who dislike some of the physical concomitants of growing old necessarily have negative feelings toward the elderly.",
+                    "To dislike some of the physical concomitants growing old is reasonable, while to dislike the elderly is immoral.",
+                    "Since no one likes the physical concomitants of growing old, it is wrong to dislike the elderly merely because of their physical characteristics.",
+                    "Being elderly is fine, but the process of becoming elderly is not; and people need to understand the distinction between the two.",
+                    "To dislike the elderly is immoral, and to do so just because one dislikes some of the physical concomitants of growing old is unreasonable."
+                ],
+                "answer": 0,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":954,
+                "question":"As symbols of the freedom of the wilderness, bald eagles have the unique capacity to inspire people and foster in them a sympathetic attitude toward the needs of other threatened species. Clearly, without that sympathy and the political will it engenders, the needs of more obscure species will go unmet. The conservation needs of many obscure species can only be met by beginning with the conservation of this symbolic species, the bald eagle.<br/><br/>Which one of the following is the main point of the passage as a whole?<br/><br/><br/>",
+                "choices":[
+                    "Because bald eagles symbolize freedom, conservation efforts should be concentrated on them rather than on other, more obscure species.",
+                    "The conservation of bald eagles is the first necessary step in conserving other endangered species.",
+                    "Without increased public sympathy for conservation, the needs of many symbolic species will go unmet.",
+                    "People's love of the wilderness can be used to engender political support for conservation efforts.",
+                    "Other threatened species do not inspire people or foster sympathy as much as do bald eagles."
+                ],
+                "answer": 1,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":956,
+                "question": "The United States government generally tries to protect valuable natural resources. But one resource has been ignored for too long. In the United States, each bushel of corn produced might result in the loss of as much as two bushels of topsoil. Moreover, in the last 100 years, the topsoil in many states, which once was about fourteen inches thick, has been eroded to only six or eight inches. Nonetheless, federal expenditures for nationwide soil conservation programs have remained at ridiculously low levels. Total federal expenditures for nationwide soil conservation programs have been less than the allocations of some individual states.<br /><br />Which one of the following best expresses the main point of the argument?<br /><br /><br />",
+                "choices":[
+                    "Corn is not a cost effective product and substitutes should be found where possible.",
+                    "A layer of topsoil only six to eight inches thick cannot support the continued cultivation of corn.",
+                    "Soil conservation is a responsibility of the federal government, not the states.",
+                    "The federal government's expenditures for soil conservation in the various states have been inequitable.",
+                    "The federal government should spend much more on soil conservation than it has been spending."
+                ],
+                "answer":4,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":957,
+                "question":"A law that is not consistently enforced does not serve its purpose. Law without enforcement is not law; it is merely statute a promise of law. To institute real law is not merely to declare that such and such behavior is forbidden; it is also to punish those who violate that edict. Furthermore, those who enforce law must punish without favor for their friends or malice for their enemies. To punish only those one dislikes while forgiving others is not to enforce law but to engage in the arbitrary and unjust exercise of power.<br /><br />The main point of the passage is that instituting real law consists in<br /><br /><br />",
+                "choices":[
+                    "The exercise of power",
+                    "authorizing the enforcement of punishments",
+                    "the unbiased punishment of prohibited behavior",
+                    "understanding the purpose of law",
+                    "clearly defining unacceptable behavior"
+                ],
+                "answer":2,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":958,
+                "question":"There is no mystery as to why figurative painting revived in the late 1970s. People want to look at recognizable images. Sorting out art theories reflected in abstract paintings is no substitute for the sense of empathy that comes from looking at a realistic painting of a figure in a landscape. Perhaps members of the art viewing public resented abstract art because they felt that its lack of realistic subject matter was a rejection of the viewers and their world.<br /><br />Which one of the following most accurately expresses the main point of the passage?<br /><br /><br />",
+                "choices":[
+                    "Abstract paintings often include shapes or forms that are suggestive of real objects or emotions.",
+                    "The art viewing public wished to see traditional subjects treated in a nontraditional manner.",
+                    "Paintings that depict a recognizable physical world rather than the emotional world of the artist's life require more artistic talent to create.",
+                    "The general public is unable to understand the theories on which abstract painting is based.",
+                    "The artistic preferences of the art viewing public stimulated the revival."
+                ],
+                "answer":4,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":959,
+                "question":"Arguing that there was no trade between Europe and East Asia in the early Middle Ages because there are no written records of such trade is like arguing that the yeti, an apelike creature supposedly existing in the Himalayas, does not exist because there have been no scientifically confirmed sightings. A verifiable sighting of the yeti would prove that the creature does exist, but the absence of sightings cannot prove that it does not.<br /><br />Which one of the following best expresses the point of the argument?<br /><br /><br />",
+                "choices":[
+                    "Evidence for the existence of trade between Europe and East Asia in the early Middle Ages is, like evidence for the existence of the yeti, not scientifically confirmed.",
+                    "In order to prove that in the early Middle Ages there was trade between Europe and East Asia it is necessary to find both Asian and European evidence that such trade existed.",
+                    "That trade between Europe and East Asia did not exist in the early Middle Ages cannot be established simply by the absence of a certain sort of evidence that this trade existed.",
+                    "The view that there was trade between Europe and East Asia in the early Middle Ages can only be disproved by showing that no references to this trade exist in surviving records.",
+                    "There is no more evidence that trade between Europe and East Asia existed in the early Middle Ages than there is that the yeti exists."
+                ],
+                "answer":2,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":960,
+                "question":"Some legislators refuse to commit public funds for new scientific research if they cannot be assured that the research will contribute to the public welfare. Such a position ignores the lessons of experience. Many important contributions to the public welfare that resulted from scientific research were never predicted as potential outcomes of that research. Suppose that a scientist in the early twentieth century had applied for public funds to study molds: who would have predicted that such research would lead to the discovery of antibiotics   one of the greatest contributions ever made to the public welfare?<br /><br />Which one of the following most accurately expresses the main point of the argument?<br /><br /><br />",
+                "choices":[
+                    "The committal of public funds for new scientific research will ensure that the public welfare will be enhanced.",
+                    "If it were possible to predict the general outcome of a new scientific research effort, then legislators would not refuse to commit public funds for that effort.",
+                    "Scientific discoveries that have contributed to the public welfare would have occurred sooner if public funds had been committed to the research that generated those discoveries.",
+                    "In order to ensure that scientific research is directed toward contributing to the public welfare, legislators must commit public funds to new scientific research.",
+                    "Lack of guarantees that new scientific research will contribute to the public welfare is not sufficient reason for legislators to refuse to commit public funds to new scientific research."
+                ],
+                "answer":4,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":961,
+                "question":"Balance is particularly important when reporting the background of civil wars and conflicts. Facts must not be deliberately manipulated to show one party in a favorable light, and the views of each side should be fairly represented. This concept of balance, however, does not justify concealing or glossing over basic injustices in an effort to be even handed. If all the media were to adopt such a perverse interpretation of balanced reporting, the public would be given a picture of a world where each party in every conflict had an equal measure of justice on its side, contrary to our experience of life and, indeed, our common sense.<br /><br />Which one of the following best expresses the main point of the argument?",
+                "choices":[
+                    "Balanced reporting presents the public with a picture of the world in which all sides to a conflict have equal justification.",
+                    "Balanced reporting requires impartially revealing injustices where they occur no less than fairly presenting the views of each party in a conflict.",
+                    "Our experience of life shows that there are indeed cases in which conflicts arise because of an injustice, with one party clearly in the wrong.",
+                    "Common sense tells us that balance is especially needed when reporting the background of civil wars and conflicts.",
+                    "Balanced reporting is an ideal that cannot be realized, because judgments of balance are necessarily subjective."
+                ],
+                "answer": 2,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":963,
+                "question":"Would it be right for the government to abandon efforts to determine at what levels to allow toxic substances in our food supply? Only if it can reasonably be argued that the only acceptable level of toxic substances in food is zero. However, virtually all foods contain perfectly natural substances that are toxic but cause no harm because they do not occur in food in toxic concentrations. Furthermore, we can never be certain of having reduced the concentration of any substance to zero: all we can ever know is that it has been reduced to below the threshold of detection of current analytical methods.<br /><br />The main conclusion of the argument is that<br /><br /><br />",
+                "choices":[
+                    "the government should continue trying to determine acceptable levels for toxic substances in our food supply",
+                    "the only acceptable level of toxic substances in food is zero",
+                    "naturally occurring toxic substances in food present little danger because they rarely occur in toxic concentrations",
+                    "the government will never be able to determine with certainty that a food contains no toxic substances the government needs to refine its methods of detecting toxic substances in our food supply.",
+                    "the government needs to refine its methods of detecting toxic substances in our food supply."
+                ],
+                "answer":0,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id": 964,
+                "question":"That long term cigarette smoking can lead to health problems including cancer and lung disease is a scientifically well established fact. Contrary to what many people seem to believe, however, it is not necessary to deny this fact in order to reject the view that tobacco companies should be held either morally or legally responsible for the poor health of smokers. After all, excessive consumption of candy undeniably leads to such health problems as tooth decay, but no one seriously believes that candy eaters who get cavities should be able to sue candy manufacturers.<br /><br />The main point of the argument is that<br /><br /><br />",
+                "choices":[
+                    "no one should feel it necessary to deny the scientifically well established fact that long-term cigarette smoking can lead to health problems",
+                    "people who get cavities should not be able to sue candy manufacturers",
+                    "the fact that smokers' health problems can be caused by their smoking is not enough to justify holding tobacco companies either legally or morally responsible for those problems",
+                    "excessive consumption of candy will lead to health problems just as surely as long term cigarette smoking will",
+                    "if candy manufacturers were held responsible for tooth decay among candy eaters then tobacco companies should also be held responsible for health problems suffered by smokers"                                    
+                ],
+                "answer":2,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":965,
+                "question":"Since multinational grain companies operate so as to maximize profits, they cannot be relied on to initiate economic changes that would reform the world's food distribution system. Although it is true that the actions of multinational companies sometimes do result in such economic change, this result is incidental, arising not from the desire for reform but from the desire to maximize profits. The maximization of profits normally depends on a stable economic environment, one that discourages change.<br /><br />The main point of the argument is that<br />",
+                "choices":[
+                    "the maximization of profits depends on a stable economic environment",
+                    "when economic change accompanies business activity, that change is initiated by concern for the profit motive",
+                    "multinational grain companies operate so as to maximize profits",
+                    "the world's current food distribution system is not in need of reform",
+                    "multinational grain companies cannot be relied on to initiate reform of the world's food distribution system"                    
+                ],
+                "answer":4,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":966,
+                "question":"Kim:&nbsp;&nbsp;Some people claim that the battery powered electric car represents a potential solution to the problem of air pollution. But they forget that it takes electricity to recharge batteries and that most of our electricity Is generated by burning polluting fossil fuels. Increasing the number of electric cars on the road would require building more generating facilities since current facilities are operating at maximum capacity. So even if all of the gasoline powered cars on the roads today were replaced by electric cars, it would at best be an exchange of one source of fossil fuel pollution for another.<br /><br />The main point made in Kim's argument is that<br /><br /><br />",
+                "choices":[
+                    "replacing gasoline powered cars with battery-powered electric cars will require building more generating facilities",
+                    "a significant reduction in air pollution cannot be achieved unless people drive less",
+                    "all forms of automobile transportation are equally harmful to the environment in terms of the air pollution they produce",
+                    "battery powered electric cars are not a viable solution to the air pollution problem",
+                    "gasoline powered cars will probably remain a common means of transportation for the foreseeable future"
+                ],
+                "answer":3,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id": 967,
+                "question": "A report on the likely effects of current levels of air pollution on forest growth in North America concluded that, since nitrogen is a necessary nutrient for optimal plant growth, the nitrogen deposited on forest soil as a result of air pollution probably benefits eastern forests. However, European soil scientists have found that in forests saturated with sulfate and nitrate, trees begin to die when the nitrogen deposited exceeds the amount of nitrogen absorbed by the forest system. Since this finding is likely to apply to forests everywhere, large areas of eastern forests of North America are, undoubtedly, already being affected adversely.<br />Which one of the following most accurately expresses the main point of the passage?<br /><br /><br />",
+                "choices":[
+                    "The implication of the report cited is that the amount of nitrogen reaching eastern forests by way of polluted air is approximately what those forests need for optimal growth.",
+                    "If large areas of eastern forests were increasingly saturated with sulfate and nitrate, the capacity of those forest systems for absorbing nitrogen would also increase.",
+                    "The type of analysis used by European soil scientists does not necessarily apply to eastern forests of North America.",
+                    "The eastern forests are the only forests of North America currently affected by polluted air.",
+                    "Contrary to the report cited, the nitrogen pollution now in the air is more likely to cause trees to die in eastern forests than to benefit them."
+                ],
+                "answer": 4,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":968,
+                "question":"Those who support the continued reading and performance of Shakespeare's plays maintain that in England appreciation for his work has always extended beyond educated elites and that ever since Shakespeare's own time his plays have always been known and loved by comparatively uneducated people. Skepticism about this claim is borne out by examining early eighteenth century editions of the plays. These books, with their fine paper and good bindings, must have been far beyond the reach of people of ordinary means.<br /><br />The main point of the argument is to<br /><br /><br />",
+                "choices":[
+                    "suggest that knowledge of Shakespeare's plays is a suitable criterion for distinguishing the educated elite from other members of English society",
+                    "provide evidence that at some time in the past appreciation for Shakespeare's plays was confined to educated elites",
+                    "prove that early eighteenth century appreciation for Shakespeare's works rested on aspects of the works that are less appreciated today",
+                    "demonstrate that since Shakespeare's time the people who have known and loved his work have all been members of educated elites",
+                    "confirm the skepticism of the educated elite concerning the worth of Shakespeare's plays"
+                ],
+                "answer":1,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":969,
+                "question":"The frequently expressed view that written constitutions are inherently more liberal than unwritten ones is false. No written constitution is more than a paper with words on it until those words are both interpreted and applied. Properly understood, then, a constitution is the sum of those procedures through which the power of the state is legitimately exercised and limited. Therefore even a written constitution becomes a liberal constitution only when it is interpreted and applied in a liberal way.<br /><br />The main point of the argument above is that<br /><br /><br />",
+                "choices":[
+                   "written constitutions are no more inherently liberal than are unwritten constitutions",
+                   "the idea of a written constitution, properly understood, is inherently self-contradictory",
+                   "unwritten constitutions are less subject to misinterpretation than are constitutions that have been written down",
+                   "liberal constitutions are extremely difficult to preserve",
+                   "there are criteria for evaluating the interpretation and application of a constitution"
+                ],
+                "answer":0,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":970,
+                "question":"Maria:&nbsp;&nbsp;Calling any state totalitarian is misleading: it implies total state control of all aspects of life. The real world contains no political entity exercising literally total control over even one such aspect. This is because any system of control is inefficient, and, therefore, its degree of control is partial.James:&nbsp;&nbsp;A one party state that has tried to exercise control over most aspects of a society and that has, broadly speaking, managed to do so is totalitarian. Such a system's practical inefficiencies do not limit the aptness of the term, which does not describe a state s actual degree of control as much as it describes the nature of a state's ambitions.<br /><br />Which one of the following most accurately expresses Maria's main conclusion?",
+                "choices":[
+                    "No state can be called totalitarian without inviting a mistaken belief.",
+                    "To be totalitarian, a state must totally control society.",
+                    "The degree of control exercised by a state is necessarily partial.",
+                    "No existing state currently has even one aspect of society under total control.",
+                    "Systems of control are inevitably inefficient."
+                ],
+                "answer":0,
+                "cat":"Argument Structure Questions"
+
+            },
+            {
+                "id":971,
+                "question":"Engineer:&nbsp;&nbsp;Some people argue that the world's energy problems could be solved by mining the Moon for helium&ndash;3, which could be used for fuel in fusion reactors. But this is nonsense. Even if it were possible to mine the Moon for helium&ndash;3, the technology needed to build viable fusion reactors that could use such fuel is at least 50 years away. If the world's energy problems are not solved before then, it will be too late to solve those problems.<br /><br />The main point of the argument is that<br /><br /><br />",
+                "choices":[
+                    "No state can be called totalitarian without inviting a mistaken belief.",
+                    "To be totalitarian, a state must totally control society.",
+                    "The degree of control exercised by a state is necessarily partial.",
+                    "No existing state currently has even one aspect of society under total control.",
+                    "Systems of control are inevitably inefficient."
+                ],
+                "answer": 0,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":973,
+                "question":"Most people are indignant at the suggestion that they are not reliable authorities about their real wants. Such self knowledge, however, is not the easiest kind of knowledge to acquire. Indeed, acquiring it often requires hard and even potentially risky work. To avoid such effort, people unconsciously convince themselves that they want what society says they should want.<br /><br />The main point of the argument is that<br /><br /><br />",
+                "choices":[
+                    "acquiring self knowledge can be risky",
+                    "knowledge of what one really wants is not as desirable as it is usually thought to be",
+                    "people cannot really want what they should want",
+                    "people usually avoid making difficult decisions",
+                    "people are not necessarily reliable authorities about what they really want"
+                ],
+                "answer": 4,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":974,
+                "question":"When politicians resort to personal attacks, many editorialists criticize these attacks but most voters pay them scant attention.  Everyone knows such attacks will end after election day, and politicians can be excused for mudslinging.  Political commentators, however, cannot be.  Political commentators should be engaged in sustained and serious debate about ideas and policies.  In such a context, personal attacks on opponents serve not to beat those opponents but to cut off the debate.<br /><br />Which one of the following most accurately states the main point of the argument?<br /><br /><br />",
+                "choices":[
+                    "Personal attacks on opponents serve a useful purpose for politicians.",
+                    "Political commentators should not resort to personal attacks on their opponents.",
+                    "Editorialists are right to criticize politicians who resort to personal attacks on their opponents.",
+                    "The purpose of serious debate about ideas and policies is to counteract the effect of personal attacks by politicians.",
+                    "Voters should be concerned about the personal attacks politicians make on each other."
+                ],
+                "answer":1,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":975,
+                "question":"In most corporations the salaries of executives are set by a group from the corporation's board of directors.  Since the board's primary mission is to safeguard the economic health of the corporation rather than to make its executives rich, this way of setting executives' salaries is expected to prevent excessively large salaries.  But, clearly, this expectation is based on poor reasoning.  After all, most members of a corporation's board are themselves executives of some corporation and can expect to benefit from setting generous benchmarks for executives' salaries.<br /><br />The point made by the author is that the most common way of setting executives' salaries might not keep those salaries in bounds because<br /><br /><br />",
+                "choices":[
+                    "most corporate executives, thanks to their generous salaries, are not financially dependent on money earned as board members",
+                    "most corporate executive might be less generous in setting their own salaries than the board members actually setting them are",
+                    "many board members might let their self-interest as executives interfere with properly discharging their role, as board members, in setting executives' salaries",
+                    "many board members who set executives' salaries unreasonably high do so because they happen to be on the board of a corporation of which they expect later to become executives",
+                    "many board members are remunerated generously and wish to protect this source of income by pleasing the executives to whom they owe their appointments on the board."
+                ],
+                "answer": 2,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":976,
+                "question":"Most people who ride bicycles for pleasure do not ride until the warm weather of spring and summer arrives. Yet it is probably more effective to advertise bicycles earlier in the year.  Most bicycles are purchased in the spring, but once shoppers are ready to shop for a bicycle, they usually have already decided which brand and model of bicycle they will purchase.  By then it is generally too late to induce them to change their minds.<br /><br />The main point of the argument is that<br /><br /><br />",
+                "choices":[
+                    "bicycle advertisements are probably more effective if they appear before the arrival of warm spring weather.",
+                    "most bicycle purchasers decide on the brand and model of bicycle that they will buy before beginning to shop for a bicycle",
+                    "more bicycles are purchased in the spring than at any other time of year",
+                    "in general, once a bicycle purchaser has decided which bicycle he or she intends to purchase, it is difficult to bring about a change in that decision",
+                    "spring and summer are the time of year in which bicycle riding as a leisure activity is most popular"
+                ],
+                "answer":0,
+                "cat":"Argument Structure Questions"
+            },
+            {
+                "id":978,
+                "question": "Veterinarian:&nbsp;&nbsp;A disease of purebred racehorses that is caused by a genetic defect prevents afflicted horses from racing and can cause paralysis and death.  Some horse breeders conclude that because the disease can have such serious consequences, horses with this defect should not be bred.  But they are wrong because, in most cases, the severity of the disease can be controlled by diet and medication, and the defect also produces horse of extreme beauty that are in great demand in the horse show industry.<br /><br />The point of the veterinarian's response to the horse breeders is most accurately expressed by which one of the following?<br /><br /><br />",
+                "choices":[
+                    "Racehorses that have the genetic defect need not be prevented from racing.",
+                    "There should not be an absolute ban on breeding racehorses that have the genetic defect.",
+                    "Racehorses that are severely afflicted with the disease have not been provided with the proper diet.",
+                    "The best way to produce racehorses of extreme beauty is to breed horses that have the genetic defect.",
+                    "There should be no prohibition against breeding racehorses that have any disease that can be controlled by diet and exercise."
+                ],
+                "answer": 1,
+                "cat":"Argument Structure Questions"
+            }
+
+        ],
+        "Main Point Questions": [
+            {
+                "id": 979,
+                "question":"The end of an action is the intended outcome of the action and not a mere by-product of the action, and the end's value is thus the only reason for the action.  So while it is true that not every end's value will justify any means, and even, perhaps, that there is no end whose value will justify every means, it is clear that nothing will justify a means except an end's value.<br /><br />Which one of the following most accurately expresses the main conclusion of the argument?<br /><br /><br />",
+                "choices":[
+                    "The value of some ends may justify any means.",
+                    "One can always justify a given action by appeal to the value of its intended outcome.",
+                    "One can justify an action only by appeal to the value of its intended outcome.",
+                    "Only the value of the by-products of an action can justify that action.",
+                    "Nothing can justify the intended outcome of an action except the value of that action's actual outcomes"
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":980,
+                "question":"For years scientists have been scanning the skies in the hope of finding life on other planets.  But in spite of the ever-increasing sophistication of the equipment they employ, some of it costing hundreds of millions of dollars, not the first shred of evidence of such life has been forthcoming.  And there is no reason to think that these scientists will be anymore successful in the future, no matter how much money is invested in the search.  The dream of finding extraterrestrial life is destined to remain a dream, as science's experience up to this point should indicate.<br /><br />Which one of the following most accurately states the main point of the argument?<br /><br /><br />",
+                "choices":[
+                    "There is no reason to believe that life exists on other planets.",
+                    "The equipment that scientists employ is not as sophisticated as it should be.",
+                    "Scientists searching for extraterrestrial life will not find it.",
+                    "Only if scientists had already found evidence of life on other planets would continued search be justified.",
+                    "We should not spend money on sophisticated equipment to aid in the search for extraterrestrial life."
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":981,
+                "question":"The authors of a recent article examined warnings of an impending wave of extinctions of animal species within the next 100 years.  These authors say that no evidence exists to support the idea that the rate of extinction of animal species is now accelerating.  They are wrong, however.  Consider only the data on fishes: 40 species and subspecies of North American fishes have vanished in the twentieth century, 13 between 1900 and 1950, and 27 since 1950.<br /><br />Which one of the following is the main point of the argument?<br /><br /><br />",
+                "choices":[
+                    "There is evidence that the rate of extinction of animal species is accelerating.",
+                    "The future rate of extinction of animal species cannot be determined from available evidence.",
+                    "The rate of extinction of North American fishes is parallel to the rate of extinction of all animal species taken together.",
+                    "Forty species and subspecies of North American fishes have vanished in the twentieth century.",
+                    "A substantial number of fish species are in danger of imminent extinction."
+                ],
+                "answer":0,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":982,
+                "question":"Politician:&nbsp;&nbsp;Homelessness is a serious social problem, but further government spending to provide low income housing is not the cure for homelessness. The most cursory glance at the real estate section of any major newspaper is enough to show that there is no lack of housing units available to rent. So the frequent claim that people are homeless because of a lack of available housing is wrong.<br /><br />That homelessness is a serious social problem figures in the argument in which one of the following ways?<br /><br /><br /><br />",
+                "choices":[
+                    "It suggests an alternative perspective to the one adopted in the argument.",
+                    "It sets out a problem the argument is designed to resolve.",
+                    "It is compatible either with accepting the conclusion or with denying it.",
+                    "It summarizes a position the argument as a whole is directed toward discrediting.",
+                    "It is required in order to establish the conclusion."
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":983,
+                "question":"When Alicia Green borrowed a neighbor's car without permission, the police merely gave her a warning. However, when Peter Foster did the same thing, he was charged with automobile theft. Peter came to the attention of the police because the car he was driving was hit by a speeding taxi. Alicia was stopped because the car she was driving had defective taillights. It is true that the car Peter took got damaged and the car Alicia took did not, but since it was the taxi that caused the damage this difference was not due to any difference in the blameworthiness of their behavior. Therefore Alicia should also have been charged with automobile theft.<br /><br />The statement that the car Peter took got damaged and the car Alicia took did not plays which one of the following roles in the argument?<br /><br /><br />",
+                "choices":[
+                    "It presents a reason that directly supports the conclusion.",
+                    "It justifies the difference in the actual outcome in the two cases.",
+                    "It demonstrates awareness of a fact on which a possible objection might be based.",
+                    "It illustrates a general principle on which the argument relies.",
+                    "It summarizes a position against which the argument is directed."   
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":984,
+                "question":"A university should not be entitled to patent the inventions of its faculty members. Universities, as guarantors of intellectual freedom, should encourage the free flow of ideas and the general dissemination of knowledge. Yet a university that retains the right to patent the inventions of its faculty members has a motive to suppress information about a potentially valuable discovery until the patent for it has been secured. Clearly, suppressing information concerning such discoveries is incompatible with the university's obligation to promote the free flow of ideas.<br /><br />The claim that a university should not be entitled to patent the inventions of its faculty members plays which one of the following roles in the argument?<br /><br /><br />",
+                "choices":[
+                    "It is the conclusion of the argument.",
+                    "It is a principle from which the conclusion is derived.",
+                    "It is an explicit assumption.",
+                    "It is additional but nonessential information in support of one of the premises.",
+                    "It is a claim that must be demonstrated to be false in order to establish the conclusion."   
+                ],
+                "answer":0,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":985,
+                "question":"Of every 100 burglar alarms police answer, 99 are false alarms. This situation causes an enormous and dangerous drain on increasingly scarce public resources. Each false alarm wastes an average of 45 minutes of police time. As a result police are consistently taken away from responding to other legitimate calls for service, and a disproportionate share of police service goes to alarm system users, who are mostly businesses and affluent homeowners. However, burglar alarm systems, unlike car alarm systems, are effective in deterring burglaries, so the only acceptable solution is to fine burglar alarm system owners the cost of 45 minutes of police time for each false alarm their systems generate.<br /><br />The statement that burglar alarm systems, unlike car alarm systems, are effective in deterring burglaries plays which one of the following roles in the argument?<br /><br /><br /><br />",
+                "choices":[
+                    "It justifies placing more restrictions on owners of burglar alarms than on owners of car alarms.",
+                    "It provides background information needed to make plausible the claim that the number of burglar alarms police are called on to answer is great enough to be a drain on public resources.",
+                    "It provides a basis for excluding as unacceptable one obvious alternative to the proposal of fining owners of burglar alarm systems for false alarms.",
+                    "It gives a reason why police might be more inclined to respond to burglar alarms than to car alarms.",
+                    "It explains why a disproportionate number of the burglar alarms responded to by police come from alarm systems owned by businesses."   
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":986,
+                "question":"Mainstream economic theory holds that manufacturers, in deciding what kinds of products to manufacture and what form those products should have, simply respond to the needs and desires of consumers. However, most major manufacturers manipulate and even create consumer demand, as anyone who watches television knows. Since even mainstream economic theorists watch television, their motive in advancing this theory must be something other than disinterested concern for scientific truth.<br /><br />The claim that manufacturers manipulate and create consumer demand plays which one of the following roles in the argument?<br /><br /><br /><br />",
+                "choices":[
+                    "It is one of the claims on which the conclusion is based.",
+                    "It is the conclusion of the argument.",
+                    "It states the position argued against.",
+                    "It states a possible objection to the argument's conclusion.",
+                    "It provides supplementary background information."
+                ],
+                "answer":0,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":987,
+                "question":"Adults have the right to vote; so should adolescents. Admittedly, adolescents and adults are not the same. But to the extent that adolescents and adults are different, adults cannot be expected to represent the interests of adolescents. If adults cannot represent the interests of adolescents, then only by giving adolescents the vote will these interests be represented.<br /><br />The statement that adolescents and adults are not the same plays which one of the following roles in the argument?<br /><br /><br />",
+                "choices":[
+                    "It presents the conclusion of the argument.",
+                    "It makes a key word in the argument more precise.",
+                    "It illustrates a consequence of one of the claims that are used to support the conclusion.",
+                    "It distracts attention from the point at issue.",
+                    "It concedes a point that is then used to support the conclusion."   
+                ],
+                "answer":4,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":988,
+                "question":"Ph.D. programs are valuable only if they inculcate good scholarship and expedite the student's full participation in the field. Hence, doctoral dissertations should not be required in the humanities. Undertaking a quality booklength dissertation demands an accumulation of knowledge virtually impossible for those relatively new to their disciplines. The student consequently either seeks to compensate for poor quality with quantity or ends up spending years producing a work of quality. Either way, the dissertation is counterproductive and frustrates the appropriate goals of the doctoral program.<br /><br />The claim that doctoral dissertations should not be required in the humanities plays which one of the following roles in the argument?<br /><br /><br /><br />",
+                "choices":[
+                    "It provides essential support for the conclusion.",
+                    "It is an example illustrative of a general principle concerning the goals of Ph.D. programs.",
+                    "It is what the argument is attempting to establish.",
+                    "It provides evidence for the assumption that requirements for degrees in the humanities differ from requirements for degrees in other disciplines.",
+                    "It confirms the observation that the requirement for a dissertation can frustrate the goals of a doctoral program."
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id": 991,
+                "question":"Henry:&nbsp;&nbsp;Some scientists explain the dance of honeybees as the means by which honeybees communicate the location of whatever food source they have just visited to other members of the hive.  But honeybees do not need so complicated a mechanism to communicate that information.  Forager honeybees returning to their hive simply leave a scent trail from the food source they have just visited.  There must therefore be some other explanation for the honeybees' dance.<br /><br />Winifred:&nbsp;&nbsp;Not necessarily.  Most animals have several ways of accomplishing critical tasks.  Bees of some species can navigate using either the position of the Sun or the memory of landmarks.  Similarly, for honeybees, scent trails are a supplementary not an exclusive means of communicating.<br /><br />In Winifred's response to Henry, the statement about how bees of some species navigate plays which one of the following roles?<br /><br /><br /><br />",
+                "choices":[
+                    "It provides evidence in support of a general claim.",
+                    "It calls into question the accuracy of key evidence cited by Henry.",
+                    "It points out that Henry's conclusion directly contradicts one of his premises.",
+                    "It proposes an alternative explanation for the honeybees' dance.",
+                    "It proposes an alternative explanation for the honeybees' dance.It is the main point toward which the argument as a whole is directed."
+                ],
+                "answer":1,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":993,
+                "question":"A severe blow to the head can cause one to lose consciousness; from this some people infer that consciousness is a product of the brain and cannot survive bodily death.  But a radio that becomes damaged may suddenly cease to broadcast the program it had been receiving, and we do not conclude from this that the program itself has ceased to exist.  Similarly, more substantial evidence would be needed to conclude that consciousness does not survive bodily death.<br /><br />Which one of the following most accurately describes the role played in the argument by the example of the damaged radio?<br /><br /><br />",
+                "choices":[
+                    "It is cited as evidence that consciousness does in fact survive bodily death.",
+                    "It is cited as a counterexample to a widely accepted belief about the nature of consciousness.",
+                    "It is cited as a case analogous to loss of consciousness in which people do not draw the same sort of conclusion that some people draw about consciousness.",
+                    "It is cited as the primary piece of evidence for the conclusion that the relationship of consciousness to the brain is analogous to that of a radio program to the radio that receives it.",
+                    "It is cited as an example of a case in which something consisting purely of energy depends on the existence of something material to provide evidence of its existence."
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":994,
+                "question": "Economist:&nbsp;&nbsp;The economy seems to be heading out of recession.  Recent figures show that consumers are buying more durable goods than before, indicating that they expect economic growth in the near future.<br /><br />That consumers are buying more durable goods than before figures in the economist's argument in which one of the following ways?<br /><br /><br /><br />",
+                "choices":[
+                    "It is the phenomenon that the argument seeks to explain.",
+                    "Its truth is required in order for the argument's conclusion to be true.",
+                    "It is an inference drawn from the premise that the recession seems to be ending.",
+                    "It is an inference drawn from the premise that consumers expect economic growth in the near future.",
+                    "It is the primary evidence from which the argument's conclusion is drawn."    
+                ],
+                "answer":4,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":995,
+                "question":"The government has spent heavily to clean groundwater contaminated by toxic chemical spills.  Yet not even one spill site has been completely cleaned, and industrial accidents are spilling more toxic chemicals annually than are being cleaned up.  More of the government's budget should be redirected to preventing spills.  Since prevention is far more effective than cleanup, it makes little sense that the entire annual budget for prevention is less than the amount spent annually on one typical cleanup site.<br /><br />The proposal about how the government's budget should be redirected plays which one of the following roles in the argument?<br /><br /><br />",
+                "choices":[
+                    "It represents an unsupported speculation.",
+                    "It both supports another claim in the argument and is supported by others.",
+                    "It is the claim that the argument as a whole is structured to support.",
+                    "It is a presupposition on which the argument is explicitly based.",
+                    "It presents an objection to another proposal mentioned in the argument."
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":996,
+                "question":"Critic:&nbsp;&nbsp;Many popular psychological theories are poor theories in that they are inelegant and do not help to dispel the mystery that surrounds our psyche.  However, this is not really important.  The theories produce the right results: therapeutically, they tend to have greater success than their more scientific rivals.<br /><br />The statement about the relative therapeutic success of many popular psychological theories plays which one of the following roles in the critic's argument?<br /><br /><br /><br />",
+                "choices":[
+                    "It is used to disprove evidence against these theories.",
+                    "It is used to override some considerations against these theories.",
+                    "It is used to suggest that popular psychological theories are actually better scientific explanations than are their rivals.",
+                    "It is used to illustrate what the critic takes to be the most important aspect of scientific theories.",
+                    "It is used to suggest that the popular theories may not be as devoid of explanatory power as one may be led to believe."   
+                ],
+                "answer":1,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":997,
+                "question":"The stable functioning of a society depends upon the relatively long-term stability of the goals of its citizens. This is clear from the fact that unless the majority of individuals have a predictable and enduring set of aspirations, it will be impossible for a legislature to craft laws that will augment the satisfaction of the citizenry, and it should be obvious that a society is stable only if its laws tend to increase the happiness of its citizens.<br /><br />The claim that a society is stable only if its laws tend to increase the happiness of its citizens plays which one of the following roles in the argument?<br /><br /><br /><br />",
+                "choices":[
+                    "It is the conclusion of the argument.",
+                    "It helps to support the conclusion of the argument.",
+                    "It is a claim that must be refuted if the conclusion is to be established.",
+                    "It is a consequence of the argument.",
+                    "It is used to illustrate the general principle that the argument presupposes"   
+                ],
+                "answer":1,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":998,
+                "question":"Scientists, puzzled about the development of penicillin-resistant bacteria in patients who had not been taking penicillin, believe they have found an explanation.  The relevant group of patients have dental fillings made of mercury-containing amalgam, and the bacteria the patients develop are immune to mercury poisoning.  Scientists have concluded that the genes causing resistance to penicillin are closely bundled on the chromosomes of bacteria with the gene that produces immunity to mercury poisoning.  Exposure to the mercury kills off bacteria that lack the relevant immunity gene, and leaves room for those that possess both the mercury-immunity gene and the penicillin-resistance gene to flourish.<br /><br />Which one of the following most accurately characterizes the role played in the passage by the unstated assumption that some patients who take penicillin develop bacteria with an immunity to penicillin?<br /><br /><br /><br />",
+                "choices":[
+                    "It is a hypothesis that is taken by the scientists to be conclusively proven by the findings described in the passage.",
+                    "It is a generalization that, if true, rules out the possibility that some people who do not take penicillin develop bacteria resistant to it.",
+                    "It is a point that, in conjunction with the fact that some patients who do not take penicillin develop penicillin-resistant bacteria, generates the problem that prompted the research described in the passage.",
+                    "It is the tentative conclusion of previous research that appears to be falsified by the scientists' discovery of the mechanism by which bacteria become resistant to mercury poisoning.",
+                    "It is a generalization assumed by the scientists to conclusively prove that the explanation of their problem case must involve reference to the genetic makeup of the penicillin-resistant bacteria."
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id": 1001,
+                "question":"Legal theorist:&nbsp;&nbsp;It is unreasonable to incarcerate anyone for any other reason than that he or she is a serious threat to the property or lives of other people.  The breaking of a law does not justify incarceration, for lawbreaking proceeds either from ignorance of the law or of the effects of one's actions, or from the free choice on the part of the lawbreaker.  Obviously mere ignorance cannot justify incarcerating a lawbreaker, and even free choice on the part of the lawbreaker fails to justify incarceration, for free choice proceeds from the desires of an agent, and the desires of an agent are products of genetics and environmental conditioning, neither of which is controlled by the agent.<br /><br />The claim in the first sentence of the passage plays which one of the following roles in the argument?<br /><br /><br /><br />",
+                "choices":[
+                    "It is offered as a premise that helps to show that no actions are under the control of the agent.",
+                    "It is offered as background information necessary to understand the argument.",
+                    "It is offered as the main conclusion that the argument is designed to establish.",
+                    "It is offered as evidence for the stated claim that protection of life and property is more important than retribution for past illegal acts.",
+                    "It is offered as evidence for the stated claim that lawbreaking proceeds from either ignorance of the law, or ignorance of the effects of one's actions, or free choice."   
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":1003,
+                "question":"Some biologists believe that the capacity for flight first developed in marine reptiles, claiming that feathers are clearly developed from scales.  Other biologists rightly reject this suggestion, pointing out that bats have no scales and that non-marine reptiles also have scales.  Those who believe that flight first developed in tree-dwelling reptiles reject the claim that the limbs of land-dwelling reptiles might have developed into wings.  They insist that it is more likely that tree-dwelling reptiles developed wings to assist their leaps from branch to branch.<br /><br />Which one of the following most accurately describes the role played in the passage by the claim that non-marine reptiles have scales?<br /><br /><br /><br />",
+                "choices":[
+                    "It is cited as evidence against the claim that the capacity for flight first developed in marine reptiles.",
+                    "It is cited as evidence against the claim that the capacity for flight first developed in land-dwelling animals.",
+                    "It is cited as evidence against the claim that the capacity for flight first developed in tree-dwelling reptiles.",
+                    "It weakens the claim that tree-dwelling reptiles were the first kind of reptile to develop the capacity for flight.",
+                    "It corroborates the observation that some mammals without scales, such as bats, developed the capacity to fly."   
+                ],
+                "answer":0,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":1005,
+                "question":"Seemingly inconsequential changes in sea temperature due to global warming eventually result in declines in fish and seabird populations.  A rise of just two degrees prevents the vertical mixing of seawater from different strata.  This restricts the availability of upwelling nutrients to phytoplankton.  Since zooplankton, which feed upon phytoplankton, feed the rest of the food chain, the declines are inevitable.<br /><br />Which one of the following most accurately describes the role played in the argument by the statement that zooplankton feed upon phytoplankton?<br /><br /><br /><br />",
+                "choices":[
+                    "It is a hypothesis supported by the fact that phytoplankton feed on upwelling nutrients.",
+                    "It is intended to provide an example of the ways in which the vertical mixing of seawater affects feeding habits.",
+                    "It helps show how global temperature changes affect larger sea animals indirectly.",
+                    "It is offered as one reason that global warming must be curtailed.",
+                    "It is offered in support of the idea that global warming poses a threat to all organisms."   
+                ],
+                "answer":2,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":1006,
+                "question":"Some vegetarians have argued that there are two individually sufficient reasons for not eating meat&mdash;one based on health considerations, and the other based on the aversion to living at the expense of other conscious creatures.  But suppose that eating meat were essential to good health for humans.  Then it would be less clear that an aversion to living at the expense of other conscious creatures is enough of a reason to stop eating meat.<br /><br />Which one of the following most accurately describes the role played in the argument by the supposition that eating meat is essential to good health?<br /><br /><br />",
+                "choices":[
+                    "It is used to disprove the vegetarian position that we should not eat meat.",
+                    "It is used to show that the two types of reasons cited in favor of vegetarianism are independent.",
+                    "It is used to disprove the claim that a vegetarian diet is healthy.",
+                    "It is used to weaken the claim that the consciousness of animals is a sufficient reason for not eating meat.",
+                    "It is used to show that there is no sufficient reason for not eating meat."   
+                ],
+                "answer":3,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":1007,
+                "question":"Many people think that the only way to remedy the problem of crime is by increasing the number of police officers, but recent statistics show that many major cities had similar ratios of police officers to citizens, yet diverged widely in their crime rates.<br /><br />The statistics cited function in the argument to<br /><br /><br /><br />",
+                "choices":[
+                    "establish that the number of police officers does not need to be increased",
+                    "illustrate the need for increasing the number of police officers in major cities",
+                    "prove that there are factors other than the number of police officers that are more important in reducing the crime rate",
+                    "demonstrate that there is no relation between the number of police officers and the crime rate",
+                    "suggest that the number of police officers is not the only influence on the crime rate"   
+                ],
+                "answer":4,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":1008,
+                "question":"Sociologist:&nbsp;&nbsp;Some people argue that capital punishment for theft was an essential part of the labor discipline of British capitalism.  Critics of such a view argue that more people were executed for theft in preindustrial England than were executed in England after industrialization.  But such a criticism overlooks the fact that industrialization and capitalism are two very different social phenomena, and that the latter predated the former by several centuries.<br /><br />Which one of the following most accurately describes the role played in the passage by the point that capitalism and industrialization are distinct?<br /><br /><br /><br />",
+                "choices":[
+                    "It is cited as some evidence against the claim that capital punishment for theft was an essential part of the labor discipline of British capitalism.",
+                    "It is cited as a direct contradiction of the claim that capital punishment for theft was an essential part of the labor discipline of British capitalism.",
+                    "It is an attempt to conclusively prove the claim that capital punishment for theft was an essential part of the labor discipline of British capitalism.",
+                    "It is cited as a fact supporting the critics of the view that capital punishment for theft was an essential part of the labor discipline of British capitalism.",
+                    "It is an attempt to undermine the criticism cited against the claim that capital punishment for theft was an essential part of the labor discipline of British capitalism."
+                ],
+                "answer":4,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":1009,
+                "question":"People's political behavior frequently does not match their rhetoric.  Although many complain about government intervention in their lives, they tend not to reelect inactive politicians.  But a politician's activity consists largely in the passage of laws whose enforcement affects voters' lives.  Thus, voters often reelect politicians whose behavior they resent.<br><br> Which one of the following most accurately describes the role played in the argument by the claim that people tend not to reelect inactive politicians?<br><br> ",
+                "choices":[
+                    "It describes a phenomenon for which the argument's conclusion is offered as an explanation.",
+                    "It is a premise offered in support of the conclusion that voters often reelect politicians whose behavior they resent.",
+                    "It is offered as an example of how a politician's activity consists largely in the passage of laws whose enforcement interferes with voters' lives.",
+                    "It is a generalization based on the claim that people complain about government intervention in their lives.",
+                    "It is cited as evidence that people's behavior never matches their political beliefs."   
+                ],
+                "answer":1,
+                "cat":"Main Point Questions"
+            },
+            {
+                "id":1010,
+                "question":"The media now devote more coverage to crime than they did ten years ago.  Yet this is not because the crime rate has increased, but rather because the public is now more interested in reading and hearing about crime.  After all, a crucial factor in the media's decisions about what issues to cover and to what extent to cover them is the interests of their audiences.<br /><br />The proposition that the public is now more interested in reading and hearing about crime plays which one of the following roles in the argument?<br /><br /><br /><br />",
+                "choices":[
+                    "It supports the conclusion that the media now devote more coverage to crime than the crime rate alone justifies.",
+                    "It is presented as evidence that the media decide what to cover and to what extent to cover it depending on the interests of the public.",
+                    "It is a counterexample to the claim that the media devote more coverage to crime now than they did ten years ago.",
+                    "It is a generalization based on the claim that the crime rate has increased over the past ten years.",
+                    "It is offered as an alternative explanation of why the media devote more coverage to crime now than they did ten years ago."   
+                ],
+                "answer":4,
+                "cat":"Main Point Questions"
+            }
+        ]
+    }
+}
